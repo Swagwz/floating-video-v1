@@ -7,7 +7,7 @@ Download the extension and click it, a popup page will shown like above screen s
 You can customize your forward/backward second and playbacke speed<br>
 Press **[PLAY]** button if all setting are done.
 ![screen2](img/screen2.png)
-<img src="img/previous.png" alt="previous" width="20"/> <img src="img/next.png" alt="next" width="20"/> are seek forward/backward<br>
-<img src="img/microphone-black-shape.png" alt="microphone" width="20"/> is control of playback speed<br>
+<img src="img/previous.png" alt="previous" width="10"/> <img src="img/next.png" alt="next" width="10"/> are seek forward/backward<br>
+<img src="img/microphone-black-shape.png" alt="microphone" width="12"/> is control of playback speed<br>
 Using these such not intuitive icons is because Media Session API's some action didn't shown on PIP window<br>
 What I can do is to choose other action to make icon shown so now is controllable
